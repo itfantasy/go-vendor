@@ -1,0 +1,15 @@
+完整依赖库：
+
+链接：https://pan.baidu.com/s/1Py1RVvpVADlACOLNfrb0cA 
+提取码：peu4
+
+gonode/tools 依赖二进制文件：
+
+链接：https://pan.baidu.com/s/1S94V4rB76Mm6e3FW7L2_Zg 
+提取码：chvm 
+
+gonode/utils/os/bin/monitor.exe 代码参考：
+（windows下监控某进程cpu及内存占用）
+
+链接：https://pan.baidu.com/s/1sgQjZozIYUPBeO3-g1tL_g 
+提取码：b8rs
