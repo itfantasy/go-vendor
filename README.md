@@ -11,7 +11,9 @@ The Golang Environmental Dependence for gonode and grid
 
 - [redigo](https://github.com/gomodule/redigo) - Go client for Redis
 
-- [mgo](https://gopkg.in/mgo.v2) - Package mgo offers a rich MongoDB driver for Go.
+- [mgo](https://gopkg.in/mgo.v2) - Package mgo offers a rich MongoDB driver for Go.(Obsolete)
+
+- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB.
 
 - [amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 
