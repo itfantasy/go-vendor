@@ -19,8 +19,6 @@ The Golang Environmental Dependence for gonode and grid
 
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
-- [log4go](https://github.com/jeanphorn/log4go) - a logging package for golang similar to log4j or log4c++ supporting console, file and network.
-
 - [etcd/clientv3](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system 
 
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
@@ -40,7 +38,5 @@ The Golang Environmental Dependence for gonode and grid
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 
 - [wmi](https://github.com/StackExchange/wmi) - WMI for Go (gopsutil's reference)
-
-- [toolkits/file](https://github.com/toolkits/file) - a file toolkits (log4go's reference)
 
 - [Complete dependency environment package on 百度网盘](https://github.com/itfantasy/go-vendor/blob/master/pan.txt)
