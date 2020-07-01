@@ -39,4 +39,36 @@ The Golang Environmental Dependence for gonode and grid
 
 - [wmi](https://github.com/StackExchange/wmi) - WMI for Go (gopsutil's reference)
 
-- [Complete dependency environment package on 百度网盘](https://github.com/itfantasy/go-vendor/blob/master/pan.txt)
+- github.com/gogo/protobuf
+
+- github.com/davecgh/go-spew
+
+- github.com/google/gofuzz
+
+- github.com/googleapis/gnostic
+
+- github.com/imdario/mergo
+
+- github.com/modern-go/reflect2
+
+- github.com/go-logr/logr
+
+- github.com/spf13/pflag
+
+- golang.org/x/oauth2
+
+- golang.org/x/time/
+
+- google.golang.org/protobuf
+
+- gopkg.in/inf.v0
+
+- k8s.io/klog/v2
+
+- sigs.k8s.io/structured-merge-diff/v3/value
+
+- sigs.k8s.io/yaml
+
+- github.com/golang/protobuf
+
+- [百度网盘离线包](https://github.com/itfantasy/go-vendor/blob/master/pan.txt)
